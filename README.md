@@ -5,7 +5,7 @@ The workflow included loading and exploring the dataset, preprocessing the text 
 
 The project highlights key NLP steps like data cleaning, vectorization, supervised model training, evaluation, and visualization. All work was done in Python using libraries including Pandas, Scikit-learn, NLTK, Matplotlib, Seaborn, and tqdm.
 
-📂 Due to file size limits, the dataset is not included in this repo.
+📂 Due to file size limits, the training dataset is not included in this repo.
 
-🔗 Download AG News Dataset:
+🔗 Download AG News Train Dataset:
 https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
